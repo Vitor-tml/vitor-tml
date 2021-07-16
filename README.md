@@ -15,8 +15,8 @@
  
 ##
 <div>
-<a href="https://www.instagram.com/vitor_tml/"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/2111/2111463.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitortml/"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank">
+<a href="https://www.instagram.com/vitor_tml/" target="_blank"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/2111/2111463.png"></a>
+<a href="https://www.linkedin.com/in/vitortml/" target="_blank"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/174/174857.png">
 </a>
 </div>
 <!--
