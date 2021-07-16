@@ -1,4 +1,5 @@
 ### Seja bem vindo! Trouxe a toalha?
+##### Não repara a bagunça! Acabei de chegar então não está tudo arrumado ainda, mas prometo que logo vai estar! Ainda tem muita coisa dento das caixas, digo, dos repositórios que vão ser organizadas por aqui. Mas fique a vontade, se quiser aí embaixo tem meus contatos.
 <br>
 <a href="https://github.com/vitor-tml">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-tml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
