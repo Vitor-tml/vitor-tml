@@ -1,5 +1,5 @@
 ### Seja bem vindo! Trouxe a toalha?
-##### Não repara a bagunça! Acabei de chegar então não está tudo arrumado ainda, mas prometo que logo vai estar! Ainda tem muita coisa dento das caixas, digo, dos repositórios que vão ser organizadas por aqui. Mas fique a vontade, se quiser aí embaixo tem meus contatos.
+##### Não repara a bagunça! Acabei de chegar então não está tudo arrumado ainda, mas prometo que logo vai estar! Ainda tem muita coisa dento das caixas — digo, dos repositórios — que vão ser organizadas por aqui. Mas fique a vontade, se quiser aí embaixo tem meus contatos.
 <br>
 <div>
 <a href="https://github.com/vitor-tml">
