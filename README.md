@@ -18,8 +18,8 @@
  
 ##
 <div>
-<a href="https://www.instagram.com/vitor_tml/" target="_blank"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/2111/2111463.png"></a>
-<a href="https://www.linkedin.com/in/vitortml/" target="_blank"><img alt="istagram-icon" height"30" width= "40 "src="https://image.flaticon.com/icons/png/512/174/174857.png">
+<a href="https://www.instagram.com/vitor_tml/" target="_blank"><img alt="instagram-icon" height"30" width= "40 "src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"></a>
+<a href="https://www.linkedin.com/in/vitortml/" target="_blank"><img alt="linkedIn-icon" height"30" width= "40 "src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
 </div>
 <!--
