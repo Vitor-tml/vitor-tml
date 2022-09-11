@@ -1,5 +1,6 @@
 ### Seja bem vindo! Trouxe a toalha?
-##### Não repara a bagunça! Acabei de chegar então não está tudo arrumado ainda, mas prometo que logo vai estar! Ainda tem muita coisa dento das caixas — digo, dos repositórios — que vão ser organizadas por aqui. Mas fique a vontade, se quiser aí embaixo tem meus contatos.
+##### Olá, viajante! Veio à procura de algum auxilio ou iluminação com as matérias aqui depositadas? Boa sorte e qualquer coisa entre em contato que eu te explico as ideias mirabolantes por trás de alguns códigos por aqui.
+#### Caso esteja aqui para avaliar a qualidade dos códigos, seja generoso! Se tiver alguma sujestão de melhoria eu agradeceria seu contato, estou sempre disposto a evoluir!
 <br>
 <div>
 <a href="https://github.com/vitor-tml">
