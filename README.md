@@ -1,6 +1,9 @@
 ### Seja bem vindo! Trouxe a toalha?
+---
 ##### Olá, viajante! Veio à procura de algum auxilio ou iluminação com as matérias aqui depositadas? Boa sorte e qualquer coisa entre em contato que eu te explico as ideias mirabolantes por trás de alguns códigos por aqui.
 #### Caso esteja aqui para avaliar a qualidade dos códigos, seja generoso! Se tiver alguma sujestão de melhoria eu agradeceria seu contato, estou sempre disposto a evoluir!
+### Conhecimento:
+---
 <br>
 <div>
 <a href="https://github.com/vitor-tml">
@@ -20,11 +23,14 @@
  
  
 ### Contatos: 
+---
 <div>
 <a href="https://www.instagram.com/vitor_tml/" target="_blank"><img alt="instagram-icon" height"30" width= "40 "src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"></a>
 <a href="https://www.linkedin.com/in/vitortml/" target="_blank"><img alt="linkedIn-icon" height"30" width= "40 "src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
 </div>
+
+
 <!--
 **Vitor-tml/vitor-tml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
