@@ -1,8 +1,9 @@
 ### Seja bem vindo! Trouxe a toalha?
 ---
-##### Olá, viajante! Veio à procura de algum auxilio ou iluminação com as matérias aqui depositadas? Boa sorte e qualquer coisa entre em contato que eu te explico as ideias mirabolantes por trás de alguns códigos por aqui.
-#### Caso esteja aqui para avaliar a qualidade dos códigos, seja generoso! Se tiver alguma sujestão de melhoria eu agradeceria seu contato, estou sempre disposto a evoluir!
-### Conhecimento:
+**Olá, viajante!** Se você está em busca de auxílio ou inspiração com os conteúdos aqui apresentados, sinta-se à vontade para entrar em contato! Ficarei feliz em compartilhar as ideias intrigantes por trás de alguns dos códigos.
+
+**Caso você esteja aqui para avaliar a qualidade dos códigos, seja gentil!** Se tiver sugestões de melhoria, sua contribuição será muito bem-vinda. Estou sempre aberto a evoluir e aperfeiçoar meu trabalho!
+
 ---
 <br>
 <div>
@@ -18,7 +19,8 @@
  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  -->
- <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Vitor-Python" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
+ <img align="center" alt="Vitor-Cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 </div>
  
  
